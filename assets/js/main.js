@@ -30,6 +30,6 @@ for (i = 0; i < 5; i++) {
 alert('HaLlO?!?!')
 var i;
 for (i = 0; i < 5; i++) {
-    alert('Nervt Das???')
+    prompt('Nervt Das???')
 }
 alert('HaLlO?!?!')
